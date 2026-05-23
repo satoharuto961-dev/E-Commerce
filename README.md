@@ -76,3 +76,5 @@ You can use this comprehensive [integration guide](https://vercel.com/docs/integ
 
 
 Bot contribution for Pull Shark
+
+Automated README update by Pull Shark bot 🦈
