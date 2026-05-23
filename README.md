@@ -118,3 +118,5 @@ Documentation tweak by bot
 Auto-generated PR content
 
 Bot contribution for Pull Shark
+
+Automated README update by Pull Shark bot 🦈
